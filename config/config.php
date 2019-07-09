@@ -13,7 +13,9 @@ const DB_USER = 'root';
 const DB_PWD  = 'root';
 
 const WEBSITE_TITLE = "";
-const BASE_URL = "http://localhost/cours/examen-jeffrey%2009.07/";
+const BASE_URL = "http://localhost/cours/examen-jeffrey%2009.07
+
+/";
 
 const CLASSES_SOURCES = [
     'src/controller',
